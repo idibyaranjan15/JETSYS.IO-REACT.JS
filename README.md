@@ -5,11 +5,11 @@
 JETSYS is a responsive website built using React that serves as a platform for a technology solutions and consultancy company. The website showcases the company's services, provides information about the team, and offers a contact form for inquiries.
 
 ## PROJECT_OUTPUt
-![Page 1](assets/11.png)
-![Page 2](assets/22.png)
-![Page 3](assets/33.png)
-![Page 4](assets/44.png)
-![Page 5](assets/55.png)
+![Page 1](src/assets/11.png)
+![Page 2](src/assets/22.png)
+![Page 3](src/assets/33.png)
+![Page 4](src/assets/44.png)
+![Page 5](src/assets/55.png)
 
 ## Table of Contents
 
